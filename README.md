@@ -29,12 +29,12 @@ Statistical calculations are performed on the data to provide the information ab
 
 - [Python](https://www.python.org/) Programming language that lets you work quickly
 and integrate systems more effectively. ([docs](https://docs.python.org/3/))
-- [Auto ARIMA]([https://docs.python.org/3/library/statistics.html)](https://pypi.org/project/pmdarima/) Library used for Auto ARIMA is a statistical library designed to fill the void in Python's time series analysis capabilities
+- [Auto ARIMA](https://pypi.org/project/pmdarima/) Library used for Auto ARIMA is a statistical library designed to fill the void in Python's time series analysis capabilities
 - [Plotly]([https://www.sqlalchemy.org/](https://plotly.com/python/getting-started/)) The plotly Python library is an interactive, open-source plotting library that supports over 40 unique chart types covering a wide range of statistical, financial, geographic, scientific, and 3-dimensional use-cases.
-- [XGBoost]([https://www.sqlite.org/)](https://pypi.org/project/xgboost/) XGBoost is used for supervised learning problems, where we use the training data (with multiple features) 
+- [XGBoost](https://pypi.org/project/xgboost/) XGBoost is used for supervised learning problems, where we use the training data (with multiple features) 
  to predict a target variable. 
-- [parquet]([https://en.wikipedia.org/wiki/Comma-separated_values)](https://coralogix.com/blog/parquet-file-format/#:~:text=Parquet%20file%20format%20is%20a,such%20as%20CSV%20or%20JSON.) fParquet file format is a structured data format that requires less storage space and offers high performance, compared to other unstructured data formats such as CSV or JSON. 
-- [statsmodels]([https://www.python.org/](https://www.statsmodels.org/stable/index.html)) Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. 
+- [parquet](https://coralogix.com/blog/parquet-file-format/#:~:text=Parquet%20file%20format%20is%20a,such%20as%20CSV%20or%20JSON.) fParquet file format is a structured data format that requires less storage space and offers high performance, compared to other unstructured data formats such as CSV or JSON. 
+- [statsmodels](https://www.statsmodels.org/stable/index.html) Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. 
 ---
 
 ## Run the app
